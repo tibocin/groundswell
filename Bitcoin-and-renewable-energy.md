@@ -16,7 +16,10 @@ The second-order effect? Bitcoin may end up *subsidizing* renewable infrastructu
 
 It’s time we look past the scary headlines and see Bitcoin for what it really is—a digital tool that rewards resourcefulness and resilience. Just like farming the land, it takes work, timing, and respect for the seasons.
 
-In next week’s letter, I’ll be digging into how Bitcoin can protect your hard-earned savings from the slow creep of inflation—especially as traditional retirement plans get squeezed.
+
+>**Optional series plug**
+>
+>In next week’s letter, I’ll be digging into how Bitcoin can protect your hard-earned savings from the slow creep of inflation—especially as traditional retirement plans get squeezed.
 
 Yours in stewardship,
 
