@@ -3,7 +3,7 @@
 
 Dear Editor,
 
->_Optional recap - In last week's letter, I shared how Bitcoin is quietly helping renewables thrive by balancing energy loads and even monetizing wasted methane. But the benefits of this technology aren’t just for power grids—they might just protect your nest egg too._
+>_Optional recap - In [last week's letter](./bitcoin-and-renewable-energy.md), I shared how Bitcoin is quietly helping renewables thrive by balancing energy loads and even monetizing wasted methane. But the benefits of this technology aren’t just for power grids—they might just protect your nest egg too._
 
 Sometimes I hear: “Bitcoin is too volatile for savings.”
 
