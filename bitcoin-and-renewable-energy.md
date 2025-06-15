@@ -19,7 +19,7 @@ It’s time we look past the scary headlines and see Bitcoin for what it really 
 
 >**Optional series plug**
 >
->In next week’s letter, I’ll be digging into how Bitcoin can protect your hard-earned savings from the slow creep of inflation—especially as traditional retirement plans get squeezed.
+>In [next week’s letter](./bitcoin-for-retirement.md), I’ll be digging into how Bitcoin can protect your hard-earned savings from the slow creep of inflation—especially as traditional retirement plans get squeezed.
 
 Yours in stewardship,
 
