@@ -55,5 +55,3 @@ Warmly,
 * [Fidelity and BlackRock Launch Bitcoin Investment Products](https://www.reuters.com/technology/blackrock-launches-bitcoin-trust-2022-08-11/)
 * [Why Bitcoin’s Supply Is Capped at 21 Million – Nasdaq](https://www.nasdaq.com/articles/why-bitcoin-has-a-21-million-supply-cap-2021-06-17)
 * [Bitcoin’s Role in Retirement Portfolios – Forbes](https://www.forbes.com/sites/ninabambysheva/2022/10/20/how-much-bitcoin-should-you-have-in-your-retirement-portfolio/?sh=7927f7262d57)
-
-Let me know if you’d like this adjusted for a specific publication or regional tone.
